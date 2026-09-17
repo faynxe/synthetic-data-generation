@@ -1,0 +1,18 @@
+{
+  "pipeline": "synthetic_data_graph_async",
+  "task_id": "0b70f76a-4fba-4436-b06e-eb58762b91eb",
+  "session_id": "agentcore-e2e-10d88941-42e8-4702-96aa-eb15d9776fa4",
+  "published_at": "2026-09-17T17:44:01.603030+00:00",
+  "final_code_type": "generated",
+  "source_script_s3_uri": "s3://mm-fsi-fix/lc/agentcore-e2e-test/generated_scripts/agentcore-e2e-10d88941-42e8-4702-96aa-eb15d9776fa4/data_generator/final_synthetic_data_generator_script.py",
+  "generator_iterations": 2,
+  "optimizer_iterations": 0,
+  "generator_eval_passed": true,
+  "optimizer_eval_passed": null,
+  "run_evaluation": true,
+  "output": {
+    "bucket": "mm-fsi-fix",
+    "s3_prefix": "lc/agentcore-e2e-test/",
+    "format": "CSV"
+  }
+}
