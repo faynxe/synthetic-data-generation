@@ -1,0 +1,18 @@
+{
+  "pipeline": "synthetic_data_graph_async",
+  "task_id": "170dbca5-e6d0-41da-8ef3-4eb257637c6d",
+  "session_id": "31d7814d-2e7a-4a96-871d-b2dfbfbb1f15",
+  "published_at": "2026-09-24T23:05:24.481415+00:00",
+  "final_code_type": "generated",
+  "source_script_s3_uri": "s3://mm-fsi-fix/lc/synthetic_data_1/generated_scripts/31d7814d-2e7a-4a96-871d-b2dfbfbb1f15/data_generator/final_synthetic_data_generator_script.py",
+  "generator_iterations": 1,
+  "optimizer_iterations": 0,
+  "generator_eval_passed": true,
+  "optimizer_eval_passed": null,
+  "run_evaluation": true,
+  "output": {
+    "bucket": "mm-fsi-fix",
+    "s3_prefix": "lc/synthetic_data_1/",
+    "format": "CSV"
+  }
+}
