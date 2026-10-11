@@ -1,0 +1,18 @@
+{
+  "pipeline": "synthetic_data_graph_async",
+  "task_id": "b44d0ed4-1e2e-4e9d-8a86-2ec81cb454c0",
+  "session_id": "cd366bc7-9d19-48dd-a2b4-6ec511eda6e7",
+  "published_at": "2026-10-11T23:22:40.369275+00:00",
+  "final_code_type": "optimized",
+  "source_script_s3_uri": "s3://mm-fsi-fix/lc/synthetic_data_1/runs/20261011-222304/generated_scripts/cd366bc7-9d19-48dd-a2b4-6ec511eda6e7/code_optimizer/final_revised_banking_generator_with_naming_compatibility.py",
+  "generator_iterations": 2,
+  "optimizer_iterations": 2,
+  "generator_eval_passed": true,
+  "optimizer_eval_passed": true,
+  "run_evaluation": true,
+  "output": {
+    "bucket": "mm-fsi-fix",
+    "s3_prefix": "lc/synthetic_data_1/runs/20261011-222304/",
+    "format": "CSV"
+  }
+}
